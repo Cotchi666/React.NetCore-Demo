@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SbSEHUj0f+/oskupO+fSlyzs+piDdP0SS1btQ0Kt5Nw=",
+  "Hash": "/zbfYskUxu5HeTg7E2OSeYYJh4q0NlwPaOlC2t2O+YU=",
   "Source": "ReactAspCore",
   "BasePath": "_content/ReactAspCore",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\CODE\\OutSource\\ReactAspCore\\ReactAspCore\\wwwroot\\js\\remarkable.min.js",
+      "SourceId": "ReactAspCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CODE\\OutSource\\ReactAspCore\\ReactAspCore\\wwwroot\\",
+      "BasePath": "_content/ReactAspCore",
+      "RelativePath": "js/remarkable.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\remarkable.min.js"
     },
     {
       "Identity": "D:\\CODE\\OutSource\\ReactAspCore\\ReactAspCore\\wwwroot\\js\\site.js",
