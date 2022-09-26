@@ -1,4 +1,9 @@
-﻿
+﻿const data = [
+    { id: 1, author: 'Daniel Lo Nigro', text: 'Hello ReactJS.NET World!' },
+    { id: 2, author: 'Pete Hunt', text: 'This is one comment' },
+    { id: 3, author: 'Jordan Walke', text: 'This is *another* comment' },
+];
+
 //Component
 class CommentBox extends React.Component {
     render() {
